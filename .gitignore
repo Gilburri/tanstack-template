@@ -6,3 +6,6 @@ dist-ssr
 .vinxi
 .netlify
 .env
+.vercel/
+__pycache__/
+.grok/*.log
